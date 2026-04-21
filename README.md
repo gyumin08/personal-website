@@ -13,8 +13,9 @@ This is a personal portfolio website I created using HTML, CSS, and JavaScript. 
 - CSS
 - JavaScript
 
-## How to Run
-Simply open the `index.html` file in a web browser to view the site.
+## Live Demo
+Visit the deployed website:
+https://gyumin-calculator.vercel.app/
 
 ## Author
 Gyumin Kim
