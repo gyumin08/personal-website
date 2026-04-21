@@ -15,7 +15,7 @@ This is a personal portfolio website I created using HTML, CSS, and JavaScript. 
 
 ## Live Demo
 Visit the deployed website:
-https://gyumin-calculator.vercel.app/
+https://gyumin-personal-website.vercel.app/
 
 ## Author
 Gyumin Kim
